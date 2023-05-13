@@ -34,4 +34,4 @@ function viagem () {
          console.log(`O gasto da viagem no alcool é de ${etanol.toFixed(2)} reais.`);
      };
 }
-viagem ()
+viagem ();
